@@ -19,6 +19,8 @@ Versions I've seen in the wild (ie my personal network):
 | Raspberry Pi OS | 2024-10-22 | Debian GNU/Linux | 12 (bookworm) | 2024-10-22 |
 | Raspberry Pi OS | 2023-05-03 | Debian GNU/Linux | 11 (bullseye) | 2023-05-03 |
 | Debian 12 | 2023-06-10 | Debian GNU/Linux | 12 (bookworm) | n/a |
+
 ## References
 
 * [os-release(5)](https://www.linux.org/docs/man5/os-release.html)
+* [Raspberry Pi OS - Versions (wikipedia)](https://en.wikipedia.org/wiki/Raspberry_Pi_OS#Versions)

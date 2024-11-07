@@ -19,3 +19,7 @@ def my_view(request):
 ```
 
 With this change, my views will now respond to HEAD requests as well as GET requests. This is important because HEAD requests are used by search engines and other web crawlers to gather information about a page without downloading the entire page content. By responding to HEAD requests, my views will be more search engine-friendly and accessible to web crawlers.
+
+## References
+
+* [Django documentation - require_safe decorator](https://docs.djangoproject.com/en/stable/topics/http/decorators/#django.views.decorators.http.require_safe)
